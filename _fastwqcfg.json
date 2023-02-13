@@ -1,0 +1,427 @@
+{
+    "1397924728878": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "№",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Keyword",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Suggestion",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Short Vietnamese",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Keyword_Sound",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Image",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Transcription",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Explanation",
+                        "fld_ord": 7,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Meaning_Sound",
+                        "fld_ord": 8,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Example_Sound",
+                        "fld_ord": 9,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Full Vietnamese",
+                        "fld_ord": 10,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "mtBab EV",
+                        "dict_unique": "a2357729f2853144f018b650ed171a75",
+                        "fld_name": "1",
+                        "fld_ord": 11,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "1670394669562": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "NoID",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "English",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Edit",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "POS",
+                        "dict_fld_ord": 5,
+                        "dict_name": "Longman",
+                        "dict_unique": "Longman",
+                        "fld_name": "Type",
+                        "fld_ord": 3,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Vietnamese",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "IPA",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Audio_English",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Audio_Vietnamese",
+                        "fld_ord": 7,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Audio_PromptEN",
+                        "fld_ord": 8,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "_PromptEN",
+                        "fld_ord": 9,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "_PromptVN",
+                        "fld_ord": 10,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Photo",
+                        "fld_ord": 11,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "NoteEN",
+                        "fld_ord": 12,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Sentence_EN",
+                        "fld_ord": 13,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Sentence_Edit",
+                        "fld_ord": 14,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Sentence_VN",
+                        "fld_ord": 15,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Sentence_IPA",
+                        "fld_ord": 16,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Audio_Sen_EN",
+                        "fld_ord": 17,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Audio_Sen_VN",
+                        "fld_ord": 18,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Sentence_Photo",
+                        "fld_ord": 19,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Collins English Dictionary, 2015",
+                        "dict_unique": "0963ffe08d0bcf55770ebb20d2a2e04a",
+                        "fld_name": "Dictionary Vietnamese",
+                        "fld_ord": 20,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "4000 essential_last": 1670394669562,
+    "dirs": [
+        "C:/Users/PC/Downloads/WordQuery Dictionaries"
+    ],
+    "export_media": false,
+    "last_folder": "C:/Users/PC/Downloads/WordQuery Dictionaries",
+    "last_model": 1670394669562,
+    "use_filename": true,
+    "version": "v2.0.0b"
+}
